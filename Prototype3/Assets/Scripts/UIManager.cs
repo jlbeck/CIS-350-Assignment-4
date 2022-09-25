@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Prototype 3
+ * Controls score UI and allows player to restart upon game over
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

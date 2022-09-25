@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Prototype 3
+ * Controls scrolling background
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
