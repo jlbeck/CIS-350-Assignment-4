@@ -54,7 +54,7 @@ public class UIManager : MonoBehaviour
 
             //Stop player from running
 
-            scoreText.text = "You win!\nPress R to play again!"
+            scoreText.text = "You win!\nPress R to play again!";
         }
 
         if (playerControllerScript.gameOver && Input.GetKeyDown(KeyCode.R))
